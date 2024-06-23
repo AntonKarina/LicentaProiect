@@ -1,3 +1,5 @@
+Link Repository GitHub: https://github.com/AntonKarina/LicentaProiect
+
 Pași de instalare:
 Se descarcă și instalează  XAMPP de pe site-ul oficial 
 Se pornește Apache și Mysql din Control Panel-ul XAMPP
